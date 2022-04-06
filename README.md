@@ -7,5 +7,6 @@ Fixed issues
 May add the extra pics later
 Do not know what .DS_Store is or where it came from?
 Basic layout complete
+Want to add the "Roadwarrior Recipe" Title over the header image later...
 
 *THIS IS COMPLETE SATIRE!
