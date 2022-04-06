@@ -10,3 +10,5 @@ Basic layout complete
 Want to add the "Roadwarrior Recipe" Title over the header image later...
 
 *THIS IS COMPLETE SATIRE!
+
+I don't understand, when I run this "live" in Chrome on my computer, the main image header shows...Why doesn't it here?
