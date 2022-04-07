@@ -12,6 +12,12 @@ h1 {
 }
 
 .navbar {
-    position: top;
-    align-items: flex-end;
+    width: 100%;
+    background-color: #ffff00;
+    position: fixed;
+    top: 0%;
+}
+
+ul {
+
 }
