@@ -4,20 +4,35 @@
     margin-bottom: 20px;
 }
 
-.header-image {
-    width: 100%;
-    height: auto;
-}
-
 body {
     background-color: #708090;
     margin-top: 50px;
 }
 
+.header-image {
+    width: 100%;
+    height: auto;
+}
+
+.entre1 {
+    width: 35%;
+    height: auto;
+}
+
+.entre2 {
+    width: 25%;
+    height: auto;
+}
+
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 65px;
 }
+
+h2 {
+    text-align: center;
+    font-size: 45px;
+} 
 
 .tagline {
     text-align: center;
