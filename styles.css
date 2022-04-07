@@ -1,6 +1,7 @@
 * {
     margin: 0;
     pad: 0;
+    margin-bottom: 20px;
 }
 
 .header-image {
@@ -16,6 +17,11 @@ body {
 h1 {
     text-align: center;
     font-size: 50px;
+}
+
+.tagline {
+    text-align: center;
+    font-style: italic;
 }
 
 .navbar {
