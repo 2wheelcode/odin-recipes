@@ -2,9 +2,15 @@
     margin: 0;
     pad: 0;
 }
+
+.header-image {
+    width: 100%;
+    height: auto;
+}
+
 body {
     background-color: #708090;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 h1 {
@@ -14,17 +20,26 @@ h1 {
 
 .navbar {
     width: 100%;
+    height: 45px;
     background-color: #ffff00;
     position: fixed;
     top: 0%;
 }
 
-ul {
+.navbar ul {
     list-style-type: none;
-    margin: 5px;
+    margin: 10px;
     overflow: hidden;
+    float: right;
 }
-/* Trying to move the nav item to the right, and horizontal  */
-li {
-    align-items: right;
+
+a {
+    text-decoration: none;
+    color: #3e0460;
+}
+
+a:hover {
+    text-transform: uppercase;
+    font-size: larger;
+    
 }
