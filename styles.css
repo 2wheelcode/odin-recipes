@@ -4,6 +4,7 @@
 }
 body {
     background-color: #708090;
+    margin-top: 60px;
 }
 
 h1 {
@@ -19,5 +20,11 @@ h1 {
 }
 
 ul {
-
+    list-style-type: none;
+    margin: 5px;
+    overflow: hidden;
+}
+/* Trying to move the nav item to the right, and horizontal  */
+li {
+    align-items: right;
 }
