@@ -17,11 +17,13 @@ body {
 .entre1 {
     width: 35%;
     height: auto;
+    margin-left: 32%;
 }
 
 .entre2 {
     width: 25%;
     height: auto;
+    margin-left: 37%;
 }
 
 h1 {
@@ -33,6 +35,11 @@ h2 {
     text-align: center;
     font-size: 45px;
 } 
+
+.top-caption {
+    text-align: center;
+    font-style: italic;
+}
 
 .tagline {
     text-align: center;
@@ -49,18 +56,28 @@ h2 {
 
 .navbar ul {
     list-style-type: none;
-    margin: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
     overflow: hidden;
     float: right;
+    display: inline-flex 
 }
 
 a {
     text-decoration: none;
     color: #3e0460;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    
+
 }
 
 a:hover {
     text-transform: uppercase;
     font-size: larger;
-    
+    transition: all .3s ease-in-out;
+    background-color: #3e0460;
+    color: #fff;
 }
