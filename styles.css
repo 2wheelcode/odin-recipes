@@ -80,4 +80,5 @@ a:hover {
     transition: all .3s ease-in-out;
     background-color: #3e0460;
     color: #fff;
+    cursor: pointer;
 }
