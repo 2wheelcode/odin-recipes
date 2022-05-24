@@ -36,6 +36,10 @@ h2 {
     font-size: 45px;
 } 
 
+.followup {
+    text-align: center;
+}
+
 .top-caption {
     text-align: center;
     font-style: italic;
